@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Atif Rafique. I'm a Jr. Frontend Developer.
+- 👋 Hi, I’m Atif Rafique. I'm Frontend Developer.
 - 👀 I Love to Code.
-- 🌱 I’m currently deep diving in Angular.
+- 🌱 I’m currently deep diving in React Js.
 
 <!---
 Atif910/Atif910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
