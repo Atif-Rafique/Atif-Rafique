@@ -1,5 +1,6 @@
 - 👋 Hi there, I’m Atif Rafique.
-- 🌱 I’m a Front end React Js Developer.
+- 🌱 I’m a Front end Developer.
+- ❤️ Love to code in React and Next Js
 
 <!---
 Atif910/Atif910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
