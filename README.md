@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 👋,
 🔭 I’m currently working on Website/Software Development in React JS and Next JS<br>🌱 I’m currently learning React Native<br>💬 Ask me about React, Next and JavaScript.
 
 
