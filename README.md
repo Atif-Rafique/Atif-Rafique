@@ -1,4 +1,4 @@
-# 💫 Hi There 👋,
+# 💫 Hi There 👋
 🔭 I’m currently working on different Softwares including VASS, E-commerce, SAAS in React Js and Next Js.<br>🤝 I’m looking for help with Kepler.gl (a powerful open source geospatial analysis tool for large-scale data sets) on advanced and custom components injection/integration with React and Next Js.<br>🌱 I’m currently learning React Native.<br>💬 Ask me about JavaScript, React Js and Next Js.
 
 
